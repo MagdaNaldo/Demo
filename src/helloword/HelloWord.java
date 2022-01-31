@@ -23,7 +23,7 @@ public class HelloWord {
         
         System.out.println(c);
         
-        system.out.println("copy right")
+        System.out.println("copy right");
        
     }
 
